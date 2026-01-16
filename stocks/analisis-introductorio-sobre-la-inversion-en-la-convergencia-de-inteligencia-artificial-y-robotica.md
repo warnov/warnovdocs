@@ -4,6 +4,8 @@ description: Con referencias bursátiles
 
 # Análisis Introductorio sobre la Inversión en la Convergencia de Inteligencia Artificial y Robótica
 
+<sub>_1/15/2026_</sub>
+
 ## Introducción: El Paradigma de la IA Física
 
 La Inteligencia Artificial (IA) ha demostrado su capacidad de transformar la esfera digital, tal como lo atestigua el rápido desarrollo y adopción de la IA generativa (modelos de lenguaje extenso o LLMs). No obstante, el actual foco de inversión y desarrollo se ha desplazado hacia la **IA Física** o **Robótica Avanzada**. Este fenómeno no se limita a la automatización de fábricas, sino que se refiere a la integración de sistemas de IA sofisticados con _hardware_ capaz de interactuar, percibir y operar en el mundo físico de manera autónoma.
