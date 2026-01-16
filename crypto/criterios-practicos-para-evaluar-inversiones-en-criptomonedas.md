@@ -6,7 +6,7 @@ description: >-
 
 # Criterios prácticos para evaluar inversiones en criptomonedas
 
-
+<sub>_1/15/2026_</sub>
 
 ### Introducción: por qué estos criterios importan
 
